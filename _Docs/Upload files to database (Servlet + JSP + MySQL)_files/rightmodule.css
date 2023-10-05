@@ -1,0 +1,32 @@
+
+#RightModule {
+	align: center;
+	width: 212px;	
+}
+
+#RightModule table {
+	border: 1px solid rgb(204, 204, 204);	
+	cellspacing: 0px;
+	padding: 0px;
+	margin: 0px;
+	
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 18px;
+	color: 095197;
+	
+}
+
+.RowHeader {
+ 	background-color: #206BA2;
+ 	padding: 0px;
+ 	cellspacing: 0px;
+ 	margin: 0px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 15px; 	
+}
+
+A:link {color: #095197; text-decoration: none}
+A:visited {color: #095197; text-decoration: none}
+A:active {color: #095197; text-decoration: none}
+A:hover {color: #095197; text-decoration: underline;}
